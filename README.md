@@ -32,7 +32,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/kartikeysingh93/ESP32_Integration_to_LED.git
+git clone https://github.com/kartikeysingh93/IOT_WEB_SERVER.git
 cd esp8266-gpio-controller
 Open in Arduino IDE
 
