@@ -79,9 +79,3 @@ Displays real-time GPIO state
 🚀 Example Use Cases
 Home automation
 
-IoT projects
-
-Remote device control
-
-📜 License
-MIT License
